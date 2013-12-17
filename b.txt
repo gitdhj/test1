@@ -1,1 +1,2 @@
 this is a new file added in branch br1.
+modify the b.txt on master branch
